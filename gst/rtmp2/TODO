@@ -47,8 +47,6 @@
 
 - Server implementation
 
-- Hook up meson build
-
 - Support more protocols
   - rtmpe (App-layer encryption)
   - rtmpt (HTTP tunneling)
